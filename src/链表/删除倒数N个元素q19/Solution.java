@@ -1,5 +1,4 @@
-package 链表.delletq79;
-
+package 链表.删除倒数N个元素q19;
 public class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode dummyNode = new ListNode();

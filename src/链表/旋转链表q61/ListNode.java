@@ -1,4 +1,4 @@
-package 链表.删除倒数N个元素q19;
+package 链表.旋转链表q61;
 
 public class ListNode {
     int val;
@@ -10,7 +10,7 @@ public class ListNode {
 
     public ListNode() {
     }
-    public void printListNode(ListNode head){
+    public static void printListNode(ListNode head){
         ListNode temp = head;
         if(head==null){
             System.out.println(head);
