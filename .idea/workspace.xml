@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="4月21号刷题提交">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/旋转链表q61/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/旋转链表q61/Solution.java" afterDir="false" />
+    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="4月22号刷题提交">
+      <change afterPath="$PROJECT_DIR$/src/栈/去除重复字母q316/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈/基本计算器q224/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈/最小栈q155/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈/最长有效括号q32/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈/有效的括号q20/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈/用栈实现队列q232/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/链表反转q206/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/链表反转q206/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/链表/K个一组翻转链表q25/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/K个一组翻转链表q25/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/链表/删除倒数N个元素q19/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/删除倒数N个元素q19/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/链表/删除倒数N个元素q19/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/删除倒数N个元素q19/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,22 +50,50 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="链表.链表反转q206" />
+      <recent name="链表.复制带随机指针的链表q138" />
       <recent name="链表.旋转链表q61" />
       <recent name="链表.K个一组翻转链表q25" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="链表.旋转链表q61.Solution" />
+  <component name="RunManager" selected="Application.Solution (4)">
+    <configuration name="MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="栈.最小栈q155.MinStack" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="链表.旋转链表q61.*" />
+          <option name="PATTERN" value="栈.最小栈q155.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="链表.链表反转q206.Solution" />
+      <module name="Leetcode-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="链表.链表反转q206.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="栈.最长有效括号q32.Solution" />
+      <module name="Leetcode-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="栈.最长有效括号q32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,11 +102,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="字符串.最长公共前缀q14.Solution" />
+      <option name="MAIN_CLASS_NAME" value="栈.基本计算器q224.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="字符串.最长公共前缀q14.*" />
+          <option name="PATTERN" value="栈.基本计算器q224.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,37 +115,11 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="字符串.划分字母区间q763.Solution" />
+      <option name="MAIN_CLASS_NAME" value="栈.去除重复字母q316.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="字符串.划分字母区间q763.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="链表.两数相加q2.Solution" />
-      <module name="Leetcode-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="链表.两数相加q2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="链表.delletq79.Solution" />
-      <module name="Leetcode-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="链表.delletq79.*" />
+          <option name="PATTERN" value="栈.去除重复字母q316.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.MinStack" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +164,14 @@
       <workItem from="1618315230996" duration="2854000" />
       <workItem from="1618920630442" duration="14271000" />
       <workItem from="1619058543226" duration="1420000" />
-      <workItem from="1619060153056" duration="4248000" />
+      <workItem from="1619060153056" duration="4375000" />
+      <workItem from="1619177077597" duration="78000" />
+      <workItem from="1619177172355" duration="8778000" />
+      <workItem from="1619314167590" duration="6141000" />
+      <workItem from="1619407316912" duration="46000" />
+      <workItem from="1619407942392" duration="2999000" />
+      <workItem from="1619419784505" duration="5374000" />
+      <workItem from="1619438005022" duration="2103000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1618023994908</created>
@@ -204,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618983251981</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="4月22号刷题提交">
+      <created>1619075197734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619075197734</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +247,8 @@
     <MESSAGE value="螺旋矩阵题目" />
     <MESSAGE value="4月12号刷题提交" />
     <MESSAGE value="4月21号刷题提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="4月21号刷题提交" />
+    <MESSAGE value="4月22号刷题提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="4月22号刷题提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -263,6 +282,21 @@
           <url>file://$PROJECT_DIR$/src/链表/旋转链表q61/Solution.java</url>
           <line>35</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/栈/最长有效括号q32/Solution.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/栈/最小栈q155/MinStack.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/栈/基本计算器q224/Solution.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/链表/两数相加q2/Solution.java</url>
