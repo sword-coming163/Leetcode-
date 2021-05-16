@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="5月14号刷题提交">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉搜索树相关/二叉搜索树的插入操作q701/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉搜索树相关/二叉搜索树的插入操作q701/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉搜索树相关/删除二叉搜索树中的节点q450/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉搜索树相关/删除二叉搜索树中的节点q450/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉搜索树相关/验证二叉搜索树q98/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉搜索树相关/验证二叉搜索树q98/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/递归/二叉树的最近公共祖先q236/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/递归/二叉树的最近公共祖先q236/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/递归/删除给定值的叶子节点q1325/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/递归/删除给定值的叶子节点q1325/TreeNode.java" afterDir="false" />
+    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="5月15号刷题提交">
+      <change afterPath="$PROJECT_DIR$/src/堆相关/前K个高频元素q347/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/堆相关/数组中的第K个最大元素q215/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/排序/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/排序/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/排序/quickTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hash相关/两数之和q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hash相关/两数之和q1/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/排序" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -77,13 +73,13 @@
       <recent name="链表.K个一组翻转链表q25" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="树的遍历.二叉树的中序遍历q94.Solution" />
+  <component name="RunManager" selected="Application.HeapSort">
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.HeapSort" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="树的遍历.二叉树的中序遍历q94.*" />
+          <option name="PATTERN" value="排序.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +87,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="树的遍历.二叉树的层序遍历q102.Solution" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.QuickSort" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="树的遍历.二叉树的层序遍历q102.*" />
+          <option name="PATTERN" value="排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="堆相关.数组中的第K个最大元素q215.Solution" />
+      <module name="Leetcode-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="堆相关.数组中的第K个最大元素q215.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +114,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="树的遍历.二叉树的前序遍历.Solution" />
+      <option name="MAIN_CLASS_NAME" value="hash相关.两数之和q1.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="树的遍历.二叉树的前序遍历.*" />
+          <option name="PATTERN" value="hash相关.两数之和q1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="树的遍历.二叉树的后序遍历.Solution" />
+    <configuration name="quickTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.quickTest" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="树的遍历.二叉树的后序遍历.*" />
+          <option name="PATTERN" value="排序.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,37 +139,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="二叉搜索树相关.验证二叉搜索树q98.Solution" />
-      <module name="Leetcode-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="二叉搜索树相关.验证二叉搜索树q98.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.quickTest" />
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +194,12 @@
       <workItem from="1620870619641" duration="73000" />
       <workItem from="1620870850317" duration="3991000" />
       <workItem from="1620876740605" duration="18225000" />
-      <workItem from="1621056712445" duration="1366000" />
+      <workItem from="1621056712445" duration="1912000" />
+      <workItem from="1621059532387" duration="1034000" />
+      <workItem from="1621062057715" duration="180000" />
+      <workItem from="1621062330578" duration="318000" />
+      <workItem from="1621062667144" duration="1538000" />
+      <workItem from="1621129450846" duration="9097000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1618023994908</created>
@@ -261,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620954811546</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="5月15号刷题提交">
+      <created>1621059231313</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1621059231313</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,7 +299,8 @@
     <MESSAGE value="4月22号刷题提交" />
     <MESSAGE value="4月26号刷题提交" />
     <MESSAGE value="5月14号刷题提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="5月14号刷题提交" />
+    <MESSAGE value="5月15号刷题提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="5月15号刷题提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -340,14 +351,19 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hash相关/两数之和q1/Solution.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/树的遍历/二叉树的层序遍历q102/Solution.java</url>
           <line>45</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/排序/QuickSort.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/排序/HeapSort.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/链表/两数相加q2/Solution.java</url>

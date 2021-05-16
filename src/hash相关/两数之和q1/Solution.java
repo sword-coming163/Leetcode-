@@ -1,5 +1,4 @@
 package hash相关.两数之和q1;
-
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
@@ -8,13 +7,7 @@ public class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] index= new int[2];
         for (int i = 0; i < nums.length-1; i++) {
-//            if(nums[i]>target){
-//                continue;
-//            }
             for (int j = i+1; j < nums.length; j++) {
-//                if (nums[j]>target){
-//                    continue;
-//                }
                 if (nums[i]+nums[j] == target){
                     index[0] = i;
                     index[1] = j;
