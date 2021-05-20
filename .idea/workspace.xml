@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="5月16号刷题提交">
-      <change afterPath="$PROJECT_DIR$/src/动态规划/不用路径q62/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/最大子序和q53/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/最小路径和q64/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/最长回文子串q5/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/爬楼梯q70/Solution.java" afterDir="false" />
+    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="5月18号刷题提交">
+      <change afterPath="$PROJECT_DIR$/src/动态规划/使用最小花费爬楼梯q746/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/最长上升子序列q300/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/最长公共子序列q1143/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/杨辉三角q118/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/统计全为1的正方形子矩阵q1277/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/快慢指针遍历/环形链表q141/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/快慢指针遍历/环形链表q141/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数字操作/各位相加q258/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数字操作/回文数q9/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数字操作/字符串相乘q43/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数字操作/字符串转整数q8/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数字操作/整数反转q7/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数字操作/阶乘后的零q172/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -71,26 +80,13 @@
       <recent name="链表.K个一组翻转链表q25" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序.HeapSort" />
-      <module name="Leetcode-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="动态规划.最小路径和q64.Solution" />
+      <option name="MAIN_CLASS_NAME" value="数字操作.字符串转整数q8.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="动态规划.最小路径和q64.*" />
+          <option name="PATTERN" value="数字操作.字符串转整数q8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +94,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="动态规划.不用路径q62.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数字操作.回文数q9.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="动态规划.不用路径q62.*" />
+          <option name="PATTERN" value="数字操作.回文数q9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数字操作.字符串相乘q43.Solution" />
+      <module name="Leetcode-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数字操作.字符串相乘q43.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数字操作.阶乘后的零q172.Solution" />
+      <module name="Leetcode-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数字操作.阶乘后的零q172.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +134,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="动态规划.最大子序和q53.Solution" />
+      <option name="MAIN_CLASS_NAME" value="数字操作.各位相加q258.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="动态规划.最大子序和q53.*" />
+          <option name="PATTERN" value="数字操作.各位相加q258.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,37 +146,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quickTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序.quickTest" />
-      <module name="Leetcode-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.quickTest" />
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +209,10 @@
       <workItem from="1621129450846" duration="9177000" />
       <workItem from="1621155407413" duration="3891000" />
       <workItem from="1621217824538" duration="8190000" />
-      <workItem from="1621304313141" duration="3053000" />
+      <workItem from="1621304313141" duration="9072000" />
+      <workItem from="1621322244098" duration="3521000" />
+      <workItem from="1621424310823" duration="11711000" />
+      <workItem from="1621478665093" duration="10786000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1618023994908</created>
@@ -277,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621148584985</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="5月18号刷题提交">
+      <created>1621307812874</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1621307812874</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +328,8 @@
     <MESSAGE value="5月14号刷题提交" />
     <MESSAGE value="5月15号刷题提交" />
     <MESSAGE value="5月16号刷题提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="5月16号刷题提交" />
+    <MESSAGE value="5月18号刷题提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="5月18号刷题提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -376,6 +398,26 @@
           <url>file://$PROJECT_DIR$/src/动态规划/最大子序和q53/Solution.java</url>
           <line>29</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/最长上升子序列q300/Solution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/最长公共子序列q1143/Solution.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数字操作/字符串转整数q8/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数字操作/阶乘后的零q172/Solution.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/链表/两数相加q2/Solution.java</url>
