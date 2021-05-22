@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="5月18号刷题提交">
-      <change afterPath="$PROJECT_DIR$/src/动态规划/使用最小花费爬楼梯q746/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/最长上升子序列q300/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/最长公共子序列q1143/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/杨辉三角q118/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/统计全为1的正方形子矩阵q1277/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/快慢指针遍历/环形链表q141/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/快慢指针遍历/环形链表q141/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数字操作/各位相加q258/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数字操作/回文数q9/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数字操作/字符串相乘q43/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数字操作/字符串转整数q8/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数字操作/整数反转q7/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数字操作/阶乘后的零q172/Solution.java" afterDir="false" />
+    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="5月20号刷题提交">
+      <change afterPath="$PROJECT_DIR$/src/双指针遍历/三数之和q15/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/双指针遍历/删除有序数组中的重复项q26/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/双指针遍历/接雨水q42/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/双指针遍历/无重复字符的最长子串q3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/双指针遍历/最接近的三数之和q16/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/双指针遍历/盛最多水的容器q11/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/快慢指针遍历/快乐数202/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/快慢指针遍历/链表的中间节点q876/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/快慢指针遍历/链表的中间节点q876/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,11 +78,11 @@
   </component>
   <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数字操作.字符串转整数q8.Solution" />
+      <option name="MAIN_CLASS_NAME" value="快慢指针遍历.链表的中间节点q876.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数字操作.字符串转整数q8.*" />
+          <option name="PATTERN" value="快慢指针遍历.链表的中间节点q876.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +91,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数字操作.回文数q9.Solution" />
+      <option name="MAIN_CLASS_NAME" value="双指针遍历.无重复字符的最长子串q3.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数字操作.回文数q9.*" />
+          <option name="PATTERN" value="双指针遍历.无重复字符的最长子串q3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +104,11 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数字操作.字符串相乘q43.Solution" />
+      <option name="MAIN_CLASS_NAME" value="双指针遍历.盛最多水的容器q11.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数字操作.字符串相乘q43.*" />
+          <option name="PATTERN" value="双指针遍历.盛最多水的容器q11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +117,11 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数字操作.阶乘后的零q172.Solution" />
+      <option name="MAIN_CLASS_NAME" value="双指针遍历.最接近的三数之和q16.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数字操作.阶乘后的零q172.*" />
+          <option name="PATTERN" value="双指针遍历.最接近的三数之和q16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +130,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数字操作.各位相加q258.Solution" />
+      <option name="MAIN_CLASS_NAME" value="双指针遍历.删除有序数组中的重复项q26.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数字操作.各位相加q258.*" />
+          <option name="PATTERN" value="双指针遍历.删除有序数组中的重复项q26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,7 +208,9 @@
       <workItem from="1621304313141" duration="9072000" />
       <workItem from="1621322244098" duration="3521000" />
       <workItem from="1621424310823" duration="11711000" />
-      <workItem from="1621478665093" duration="10786000" />
+      <workItem from="1621478665093" duration="10847000" />
+      <workItem from="1621565726055" duration="10499000" />
+      <workItem from="1621601487788" duration="7587000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1618023994908</created>
@@ -298,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621307812874</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="5月20号刷题提交">
+      <created>1621512265440</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1621512265440</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,7 +334,8 @@
     <MESSAGE value="5月15号刷题提交" />
     <MESSAGE value="5月16号刷题提交" />
     <MESSAGE value="5月18号刷题提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="5月18号刷题提交" />
+    <MESSAGE value="5月20号刷题提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="5月20号刷题提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -419,6 +425,26 @@
           <line>40</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/双指针遍历/无重复字符的最长子串q3/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/双指针遍历/盛最多水的容器q11/Solution.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/双指针遍历/最接近的三数之和q16/Solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/双指针遍历/删除有序数组中的重复项q26/Solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/链表/两数相加q2/Solution.java</url>
           <line>40</line>
@@ -429,11 +455,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="temp" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
