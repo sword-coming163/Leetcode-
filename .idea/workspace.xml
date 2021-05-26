@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="5月22号刷题提交">
-      <change afterPath="$PROJECT_DIR$/src/分治/合并K个排序链表q23/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/分治/合并K个排序链表q23/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/分治/在排序数组中查找元素的第一个和最后一个位置q34/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/分治/搜索旋转排序树组q33/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/回溯法/正则表达式匹配q10/Solution.java" afterDir="false" />
+    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="5月23号刷题提交">
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q06从尾到头打印链表/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q06从尾到头打印链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q10斐波那契数列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q10青蛙跳台阶问题/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q11旋转数组的最小数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q12矩阵中的路径/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q13机器人的运动范围/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q14剪绳子/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q14剪绳子2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q15二进制中1的个数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q16数值的整数次方/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q17打印从1到最大n位数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q18删除链表的节点/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q18删除链表的节点/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q20表示数值的字符串/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q21调整数组顺序使奇数位于偶数前面/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q22链表中倒数第K个节点/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q22链表中倒数第K个节点/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q24反转链表/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q24反转链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q25合并两个排序的链表/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q25合并两个排序的链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q3数组中重复的数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q4二维数组中的查找/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q5替换空格/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q7重建二叉树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q7重建二叉树/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q9用两个栈实现队列/CQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多线程/按序打印/Foo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,30 +79,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/排序" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/回溯法" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\github\Leetcode-\src\回溯法" />
       <recent name="C:\Users\Administrator\Desktop\github\Leetcode-\src\排序" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="剑指offer.q25合并两个排序的链表" />
+      <recent name="剑指offer.q24反转链表" />
+      <recent name="剑指offer.q22链表中倒数第K个节点" />
       <recent name="树的遍历.二叉树的层序遍历q102" />
       <recent name="链表.链表反转q206" />
-      <recent name="链表.复制带随机指针的链表q138" />
-      <recent name="链表.旋转链表q61" />
-      <recent name="链表.K个一组翻转链表q25" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="分治.合并K个排序链表q23.Solution" />
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.q24反转链表.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="分治.合并K个排序链表q23.*" />
+          <option name="PATTERN" value="剑指offer.q24反转链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="分治.在排序数组中查找元素的第一个和最后一个位置q34.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.q18删除链表的节点.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="分治.在排序数组中查找元素的第一个和最后一个位置q34.*" />
+          <option name="PATTERN" value="剑指offer.q18删除链表的节点.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +125,11 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="双指针遍历.盛最多水的容器q11.Solution" />
+      <option name="MAIN_CLASS_NAME" value="剑指offer.q20表示数值的字符串.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="双指针遍历.盛最多水的容器q11.*" />
+          <option name="PATTERN" value="剑指offer.q20表示数值的字符串.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +138,11 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="双指针遍历.最接近的三数之和q16.Solution" />
+      <option name="MAIN_CLASS_NAME" value="剑指offer.q21调整数组顺序使奇数位于偶数前面.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="双指针遍历.最接近的三数之和q16.*" />
+          <option name="PATTERN" value="剑指offer.q21调整数组顺序使奇数位于偶数前面.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +151,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="双指针遍历.删除有序数组中的重复项q26.Solution" />
+      <option name="MAIN_CLASS_NAME" value="剑指offer.q22链表中倒数第K个节点.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="双指针遍历.删除有序数组中的重复项q26.*" />
+          <option name="PATTERN" value="剑指offer.q22链表中倒数第K个节点.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +233,15 @@
       <workItem from="1621565726055" duration="10499000" />
       <workItem from="1621601487788" duration="9457000" />
       <workItem from="1621736727013" duration="13642000" />
-      <workItem from="1621757134233" duration="371000" />
+      <workItem from="1621757134233" duration="4577000" />
+      <workItem from="1621765669706" duration="16204000" />
+      <workItem from="1621857288161" duration="1970000" />
+      <workItem from="1621859358331" duration="766000" />
+      <workItem from="1621864290223" duration="8899000" />
+      <workItem from="1621949620776" duration="3594000" />
+      <workItem from="1621994587155" duration="4579000" />
+      <workItem from="1621999205182" duration="5523000" />
+      <workItem from="1622013524880" duration="7569000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1618023994908</created>
@@ -308,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621653090932</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="5月23号刷题提交">
+      <created>1621757659634</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1621757659634</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +381,8 @@
     <MESSAGE value="5月18号刷题提交" />
     <MESSAGE value="5月20号刷题提交" />
     <MESSAGE value="5月22号刷题提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="5月22号刷题提交" />
+    <MESSAGE value="5月23号刷题提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="5月23号刷题提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -456,6 +497,56 @@
           <line>7</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q3数组中重复的数字/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q4二维数组中的查找/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q10斐波那契数列/Solution.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q11旋转数组的最小数字/Solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q11旋转数组的最小数字/Solution.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q13机器人的运动范围/Solution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q14剪绳子2/Solution.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q16数值的整数次方/Solution.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q18删除链表的节点/Solution.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q21调整数组顺序使奇数位于偶数前面/Solution.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/链表/两数相加q2/Solution.java</url>
           <line>40</line>
@@ -463,6 +554,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q15二进制中1的个数/Solution.java</url>
+          <line>3</line>
+          <properties class="剑指offer.q15二进制中1的个数.Solution" method="hammingWeight">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
