@@ -4,37 +4,39 @@ import java.util.Arrays;
 import java.util.Date;
 
 public class quickTest {
-    private void sort(int[] nums,int l,int r){
-        if(l>=r){
+    public void quickSort(int[] nums){
+        sort(nums,0,nums.length-1);
+    }
+    public void sort(int[] nums,int l,int r){
+        if (l>=r){
             return;
         }
-        int p = partition(nums,l,r);
-        sort(nums,l,p-1);
-        sort(nums,p+1,r);
+        int pivot = partition(nums,l,r);
+        sort(nums,l,pivot-1);
+        sort(nums,pivot+1,r);
     }
-    private int partition(int[] nums,int l,int r){
-        int pivot = nums[l];
+    public int partition(int[] nums,int l,int r){
         int index = l;
-        for (int i = l+1; i <r+1; i++) {
+        int pivot = nums[l];
+        for (int i = l+1; i <= r; i++) {
             if (nums[i]<pivot){
+                //交换
                 index++;
-                int temp = nums[i];
-                nums[i] = nums[index];
-                nums[index] = temp;
+                int temp = nums[index];
+                nums[index] = nums[i];
+                nums[i] = temp;
             }
         }
+        //交换坑位位置
         nums[l] = nums[index];
         nums[index] = pivot;
         return index;
     }
-    public void quickSort(int[] nums){
-        sort(nums,0,nums.length-1);
-    }
 
     public static void main(String[] args) {
-        int[] nums = new int[240000];
+        int[] nums = new int[24];
         for (int i = 0; i < nums.length; i++) {
-            nums[i] = (int) (Math.random()*240000);
+            nums[i] = (int) (Math.random()*24);
         }
 
         quickTest quickTest = new quickTest();
@@ -42,6 +44,6 @@ public class quickTest {
         quickTest.quickSort(nums);
         Date end = new Date();
         System.out.println(end.getTime()-start.getTime());
-//        System.out.println(Arrays.toString(nums));
+        System.out.println(Arrays.toString(nums));
     }
 }

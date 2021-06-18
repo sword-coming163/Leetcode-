@@ -37,6 +37,7 @@ public class Solution {
         TreeNode root2 = new TreeNode(4);
         root2.left = new TreeNode(1);
         System.out.println(new Solution().isSubStructure(root1,root2));
+
     }
 
 }

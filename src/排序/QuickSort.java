@@ -1,10 +1,9 @@
 package 排序;
-
-import java.util.Arrays;
 import java.util.Date;
 
 public class QuickSort {
-    public void quicksort0(int[] nums){
+    public void quicksort0(int[] nums)
+    {
         quickSortInternal(nums,0,nums.length-1);
     }
     public void quickSortInternal(int[] arr, int l, int r) {
@@ -23,7 +22,6 @@ public class QuickSort {
         int pivot = arr[l];
         //从基准元素的下一个位置开始遍历数组，记录当前坑的位置，最后把 pivot 值放到这个坑中
         int index = l;
-
         for (int i = l + 1; i <= r; i++) {
             // 比基准数据小
             if (arr[i] < pivot) {
