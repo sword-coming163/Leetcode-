@@ -1,40 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="6月1号刷题提交">
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q06从尾到头打印链表/training/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q06从尾到头打印链表/training/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q15二进制中1的个数/training/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q17打印从1到最大n位数/training/Soluton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q32从上到下打印二叉树/training/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q32从上到下打印二叉树/training/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q34二叉树中和为某一值的路径/training/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q34二叉树中和为某一值的路径/training/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q3数组中重复的数字/training/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q4二维数组中的查找/training/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q5替换空格/training/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q7重建二叉树/training/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q7重建二叉树/training/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/字符串/最长回文子串q5/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/排序/HeapSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数字操作/一和零q474/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组/连续数组q525/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/牛客ACM模式/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/牛客ACM模式/Test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/vivo/q1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/vivo/q2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/vivo/q3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/相交链表q160/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/相交链表q160/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/移除链表元素q203/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/移除链表元素q203/Solution.java" afterDir="false" />
+    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="6月18号刷题提交">
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q35复杂链表的复制/training/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q35复杂链表的复制/training/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q36二叉搜索树与双向链表/training/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q36二叉搜索树与双向链表/training/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q37序列化二叉树/Codec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q37序列化二叉树/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q41数据流中的中位数/MedianFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q43前N个整数中1出现的次数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q51数组中的逆序对/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/q59滑动窗口的最大值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/不同路径2q63/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/最长回文子串q5/training/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/跳跃游戏q45/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/跳跃游戏q55/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/回溯法/q22_括号生成/training/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/回溯法/q46_全排列/FullArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/回溯法/q46_全排列/Training/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/回溯法/全排列2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数字操作/三数之和q15/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数字操作/四数之和q18/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数字操作/整数转罗马数字q12/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数字操作/罗马数字转整数去q13/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/寻找良哥正序数组中的中位数q4/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/连续数组q525/training/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/代理模式/CGLIB/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/代理模式/CGLIB/MyMethodInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/代理模式/动态代理/JDK/HelloImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/代理模式/动态代理/JDK/IHello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/代理模式/动态代理/JDK/MyInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/代理模式/静态代理/TransactionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/代理模式/静态代理/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/代理模式/静态代理/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/单例模式/er汉式/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/单例模式/懒汉式/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/单例模式/枚举/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/两两交换链表中的节点q24/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/两两交换链表中的节点q24/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/q20表示数值的字符串/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/q20表示数值的字符串/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/q26树的子结构/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/q26树的子结构/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/q29顺时针打印矩阵/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/q29顺时针打印矩阵/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/q33二叉搜索树的后序遍历序列/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/q33二叉搜索树的后序遍历序列/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/排序/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/排序/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/排序/quickTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/排序/quickTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/剑指offer/q36二叉搜索树与双向链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/q36二叉搜索树与双向链表/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试/vivo/q2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/vivo/q2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +52,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -96,28 +105,15 @@
       <recent name="C:\Users\Administrator\Desktop\github\Leetcode-\src\剑指offer" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="剑指offer.q59滑动窗口的最大值" />
+      <recent name="剑指offer.q36二叉搜索树与双向链表.training" />
+      <recent name="剑指offer.q35复杂链表的复制.training" />
       <recent name="笔试.vivo.q3" />
       <recent name="笔试.vivo.q2" />
-      <recent name="剑指offer.q34二叉树中和为某一值的路径.training" />
-      <recent name="剑指offer.q32从上到下打印二叉树.training" />
-      <recent name="链表.移除链表元素q203" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="笔试.vivo.q1.Main" />
-      <module name="Leetcode-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="笔试.vivo.q1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="笔试.vivo.q2.Main" />
       <module name="Leetcode-" />
       <extension name="coverage">
@@ -130,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="笔试.vivo.q3.Main" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.q51数组中的逆序对.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="笔试.vivo.q3.*" />
+          <option name="PATTERN" value="剑指offer.q51数组中的逆序对.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="牛客ACM模式.Test.Main" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.q59滑动窗口的最大值.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="牛客ACM模式.Test.*" />
+          <option name="PATTERN" value="剑指offer.q59滑动窗口的最大值.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +153,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="牛客ACM模式.Solution" />
+      <option name="MAIN_CLASS_NAME" value="动态规划.跳跃游戏q55.Solution" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="牛客ACM模式.*" />
+          <option name="PATTERN" value="动态规划.跳跃游戏q55.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,26 +165,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="动态规划.不同路径2q63.Solution" />
+      <module name="Leetcode-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="动态规划.不同路径2q63.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +274,16 @@
       <workItem from="1623557525004" duration="17410000" />
       <workItem from="1623722096758" duration="17826000" />
       <workItem from="1623898446482" duration="2499000" />
-      <workItem from="1623925514689" duration="17991000" />
+      <workItem from="1623925514689" duration="27053000" />
+      <workItem from="1624887941188" duration="2511000" />
+      <workItem from="1624938320071" duration="11836000" />
+      <workItem from="1625037537046" duration="10047000" />
+      <workItem from="1625362496290" duration="8807000" />
+      <workItem from="1625383338813" duration="571000" />
+      <workItem from="1625383930065" duration="3139000" />
+      <workItem from="1625452676239" duration="6862000" />
+      <workItem from="1625474980726" duration="6573000" />
+      <workItem from="1625554112105" duration="5533000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1618023994908</created>
@@ -395,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622551696092</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="6月18号刷题提交">
+      <created>1623998396374</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1623998396374</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +455,8 @@
     <MESSAGE value="5月26号刷题提交" />
     <MESSAGE value="5月29号刷题提交" />
     <MESSAGE value="6月1号刷题提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="6月1号刷题提交" />
+    <MESSAGE value="6月18号刷题提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="6月18号刷题提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -677,6 +701,36 @@
           <line>11</line>
           <option name="timeStamp" value="93" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数字操作/三数之和q15/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数组/寻找良哥正序数组中的中位数q4/Solution.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数组/寻找良哥正序数组中的中位数q4/Solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q43前N个整数中1出现的次数/Solution.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q51数组中的逆序对/Solution.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/q59滑动窗口的最大值/Solution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/链表/两数相加q2/Solution.java</url>
           <line>40</line>
@@ -695,11 +749,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="tempQueue" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

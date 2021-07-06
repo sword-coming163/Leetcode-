@@ -12,7 +12,9 @@ public class Solution {
     void dfs(Node cur) {
         if(cur == null) return;
         dfs(cur.left);
-        if(pre != null) pre.right = cur;
+        if(pre != null){
+            pre.right = cur;
+        }
         else head = cur;
         cur.left = pre;
         pre = cur;
