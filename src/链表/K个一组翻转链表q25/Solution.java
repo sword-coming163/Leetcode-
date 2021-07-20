@@ -9,8 +9,12 @@ public class Solution {
         ListNode end = dummy;
 
         while (end.next != null) {
-            for (int i = 0; i < k && end != null; i++) end = end.next;
-            if (end == null) break;
+            for (int i = 0; i < k && end != null; i++) {
+                end = end.next;
+            }
+            if (end == null) {
+                break;
+            }
             ListNode start = pre.next;
             ListNode next = end.next;
             end.next = null;

@@ -5,6 +5,8 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Solution {
+
+
     public boolean isHappy1(int n) {
         int ans = 0;
         int temp = 0;

@@ -1,6 +1,4 @@
-package 数组.寻找良哥正序数组中的中位数q4;
-
-import java.util.Arrays;
+package 数组.寻找两个正序数组中的中位数q4;
 
 public class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
