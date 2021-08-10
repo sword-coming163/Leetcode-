@@ -1,9 +1,6 @@
 package 树的遍历.二叉树的层序遍历q102;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
+import java.util.*;
 
 public class Solution {
     //层序遍历
@@ -41,14 +38,79 @@ public class Solution {
         preOrderTraverse(node.left);
         preOrderTraverse(node.right);
     }
+    //层序遍历
+    public List<List<Integer>> levelOrder1(TreeNode root) {
+        List<List<Integer>> res = new ArrayList<>();
+
+        Queue<TreeNode> queue = new LinkedList<>();
+        if (root==null){
+            return res;
+        }
+        queue.offer(root);
+        while (!queue.isEmpty()){
+            List<Integer> temp = new ArrayList<>();
+            for (int i = queue.size(); i >0 ; i--) {
+                TreeNode curr = queue.poll();
+                temp.add(curr.val);
+                if (curr.left!=null){
+                    queue.offer(curr.left);
+                }
+                if (curr.right!=null){
+                    queue.offer(curr.right);
+                }
+            }
+            res.add(new ArrayList<>(temp));
+
+        }
+        return res;
+    }
+    public List<List<Integer>> levelOrder2(TreeNode root) {
+        List<List<Integer>> res = new ArrayList<>();
+
+        Queue<TreeNode> queue = new LinkedList<>();
+        if (root==null){
+            return res;
+        }
+        queue.offer(root);
+        int level = 1;
+        while (!queue.isEmpty()){
+            LinkedList<Integer> temp = new LinkedList<>();
+            for (int i = queue.size(); i >0 ; i--) {
+                TreeNode curr = queue.poll();
+                if (level%2==1){
+                    //奇数层
+                    temp.addLast(curr.val);
+                }else {
+                    temp.addFirst(curr.val);
+                }
+
+                if (curr.left!=null){
+                    queue.offer(curr.left);
+                }
+                if (curr.right!=null){
+                    queue.offer(curr.right);
+                }
+            }
+            level++;
+            res.add(new ArrayList<>(temp));
+
+        }
+//        for (int i = 0; i < res.size(); i++) {
+//            if (i%2==1){
+//                Collections.reverse(res.get(i));
+//            }
+//        }
+        return res;
+    }
 
     public static void main(String[] args) {
-        TreeNode root = new TreeNode(1);
-        root.right = new TreeNode(2);
-        root.left = new TreeNode(0);
-        root.right.left = new TreeNode(3);
+        TreeNode root = new TreeNode(3);
+        root.right = new TreeNode(20);
+        root.left = new TreeNode(9);
+        root.right.left = new TreeNode(15);
+        root.right.right = new TreeNode(7);
         Solution solution = new Solution();
-        solution.preOrderTraverse(root);
-        System.out.println(solution.levelOrder(root));
+//        solution.preOrderTraverse(root);
+        System.out.println(new Solution().levelOrder2(root));
     }
 }

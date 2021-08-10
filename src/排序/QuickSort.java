@@ -1,5 +1,7 @@
 package 排序;
+import java.util.Arrays;
 import java.util.Date;
+import java.util.Random;
 
 public class QuickSort {
     public void quicksort0(int[] nums)
@@ -18,10 +20,17 @@ public class QuickSort {
     }
 
     private int partition(int[] arr, int l, int r) {
+
+
+        int random = new Random().nextInt(r-l+1)+l;
+        int temp = arr[l];
+        arr[l] = arr[random];
+        arr[random] = temp;
         // 设置基准值，选择第一个，也可以随机,
+        int index = l;
         int pivot = arr[l];
         //从基准元素的下一个位置开始遍历数组，记录当前坑的位置，最后把 pivot 值放到这个坑中
-        int index = l;
+
         for (int i = l + 1; i <= r; i++) {
             // 比基准数据小
             if (arr[i] < pivot) {
@@ -96,18 +105,19 @@ public class QuickSort {
 
     public static void main(String[] args) {
         int[] nums = new int[]{5,8,4,6,1,0};
-        int[] nums1 = new int[2400000];
-        for (int i = 0; i < 2400000; i++) {
-            nums1[i] = (int)(Math.random()*2400000);
-        }
+//        int[] nums1 = new int[2400000];
+//        for (int i = 0; i < 2400000; i++) {
+//            nums1[i] = (int)(Math.random()*2400000);
+//        }
         QuickSort quickSort = new QuickSort();
         Date start = new Date();
 
 //        quickSort1(nums1,0, nums1.length-1);
 //        System.out.println(Arrays.toString(nums1));
 
-        quickSort.quicksort0(nums1);
+        quickSort.quicksort0(nums);
         Date end = new Date();
+        System.out.println(Arrays.toString(nums));
         System.out.println(end.getTime()-start.getTime());
     }
 }
