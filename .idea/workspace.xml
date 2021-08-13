@@ -7,65 +7,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="7月20号刷题提交">
-      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-4.13.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/K个一组翻转链表/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/K个一组翻转链表/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q003无重复字符的最长子串/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q01两数之和/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q141环形链表/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q141环形链表/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q142环形链表2/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q142环形链表2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q146LRU缓存机制/LRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q179最大数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q206反转链表/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q206反转链表/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q215数组中的第K个最大的元素/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q21合并两个有序链表/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q21合并两个有序链表/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q40LFU缓存/LFUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q415字符串相加/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q53最大子序和/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/q10青蛙跳台阶问题/training/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/q10正则表达式匹配/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/q44通配符匹配/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多线程/q1115交替打印FooBar/FooBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多线程/q1116打印零与奇偶数/ZeroEvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多线程/按序打印/Print_ABC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数字操作/q69X的平方根/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组/q1488避免洪水泛滥/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组/q494目标和/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组/q842将数组拆分成斐波那契数列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/牛客ACM模式/Test/BufferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/shoope/q1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/shoope/q2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/shoope/q3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/爱奇艺/q1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/爱奇艺/q2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/爱奇艺/q3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/爱奇艺/q4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/美团/q1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/美团/q2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/美团/q3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/美团/q4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/美团/q5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/荣耀/q1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/荣耀/q2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/荣耀/q3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/q92反转链表2/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/q92反转链表2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Leetcode-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Leetcode-.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="7ee996db-b5a9-4d3b-bb76-2673ca6adc56" name="Default Changelist" comment="8月10号刷题提交">
+      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q199二叉树的右视图/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q199二叉树的右视图/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q236二叉树的最近公共祖先/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q236二叉树的最近公共祖先/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/企业常见题目/q300最长递增子序列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/携程/q1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/携程/q2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/携程/q3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/携程/q4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/携程/q5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/企业常见题目/q146LRU缓存机制/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/企业常见题目/q146LRU缓存机制/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/多线程/按序打印/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多线程/按序打印/Foo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/排序/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/排序/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/树的遍历/二叉树的中序遍历q94/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/树的遍历/二叉树的中序遍历q94/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/树的遍历/二叉树的后序遍历/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/树的遍历/二叉树的后序遍历/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/树的遍历/二叉树的层序遍历q102/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/树的遍历/二叉树的层序遍历q102/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/设计模式/单例模式/er汉式/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/设计模式/单例模式/er汉式/Singleton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,20 +97,33 @@
       <recent name="C:\Users\Administrator\Desktop\github\Leetcode-\src\剑指offer\q32从上到下打印二叉树三" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="企业常见题目.q199二叉树的右视图" />
       <recent name="笔试.美团.q5" />
       <recent name="笔试.美团.q4" />
       <recent name="笔试.美团.q1" />
       <recent name="笔试.美团.q2" />
-      <recent name="笔试.荣耀.q3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Son">
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序.QuickSort" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.携程.q2.Main" />
       <module name="Leetcode-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="排序.*" />
+          <option name="PATTERN" value="笔试.携程.q2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.携程.q1.Main" />
+      <module name="Leetcode-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试.携程.q1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,19 +137,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="树的遍历.二叉树的层序遍历q102.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="树的遍历.二叉树的中序遍历q94.Solution" />
-      <module name="Leetcode-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="树的遍历.二叉树的中序遍历q94.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Son" />
         <item itemvalue="Application.parent" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +282,9 @@
       <workItem from="1628384707147" duration="9140000" />
       <workItem from="1628495719623" duration="410000" />
       <workItem from="1628496366794" duration="8977000" />
-      <workItem from="1628564063134" duration="1456000" />
+      <workItem from="1628564063134" duration="9978000" />
+      <workItem from="1628680573522" duration="7000" />
+      <workItem from="1628765619302" duration="9710000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1618023994908</created>
@@ -476,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626777113020</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="8月10号刷题提交">
+      <created>1628589789530</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1628589789530</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +480,8 @@
     <MESSAGE value="6月18号刷题提交" />
     <MESSAGE value="7月6号刷题提交" />
     <MESSAGE value="7月20号刷题提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="7月20号刷题提交" />
+    <MESSAGE value="8月10号刷题提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="8月10号刷题提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -870,6 +835,11 @@
           <url>file://$PROJECT_DIR$/src/笔试/美团/q1/Main.java</url>
           <line>27</line>
           <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/携程/q1/Main.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/链表/两数相加q2/Solution.java</url>
